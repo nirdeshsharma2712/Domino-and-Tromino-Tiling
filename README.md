@@ -11,7 +11,7 @@ Given an integer `n`, return the number of ways to tile an `2 x n` board. Since 
 
 
 
-## 🧠 Approach: Two-Pointer Technique
+## 🧠 Approach: Dynamic Programing
 
 > Initialize an **answer vector** ans with **base cases**:
 > - `ans[1] = 1`;
